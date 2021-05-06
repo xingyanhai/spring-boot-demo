@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<!--<link rel="stylesheet" href="/common/css/test.css">-->
+<body>
+<div id="app">
+    <div id="counter">
+        Counter: {{ counter }}
+        <el-button @click="add">addcount</el-button>
+    </div>
+</div>
+<script src="./js/vue1.js"></script>
+<!--<script src="/common/js/vue1.js"></script>-->
+<!--<script src="/common/js/test.js"></script>-->
+<script>
+    console.log(Vue)
+    const App = {
+        data() {
+            return {
+                counter: 599,
+            }
+        },
+        methods: {
+            add() {
+                this.counter++
+            }
+        }
+    }
+
+    const app = Vue.createApp(App)
+    app.mount('#counter')
+</script>
+</body>
+</html>

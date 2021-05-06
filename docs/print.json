@@ -1,0 +1,1124 @@
+[
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "这是别人的选择自由，提问者这么敏感反倒又是什么情节呢？难道觉得不用QQ的人都不正常活不了？ 我本身就非常排斥QQ，并且也尽量不去使用，不过相对来我更讨厌 msn，不过即便如此我也不会把这种喜好强加于别人，淡定是基本。 ",
+      "created_time": 1307485394,
+      "id": 12698793,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic2.zhimg.com/50/da8e974dc.jpg?source=54b3c3a5",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "知乎用户",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "is_advertiser": false,
+        "url": "http://www.zhihu.com/api/v4/people/0",
+        "url_token": "",
+        "user_type": "people",
+        "headline": "",
+        "avatar_url": "https://pic1.zhimg.com/50/da8e974dc_l.jpg?source=54b3c3a5",
+        "is_org": false,
+        "gender": -1,
+        "type": "people",
+        "id": "5c7d039ddc72c95c0df3ea3b0b761578"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/12698793",
+      "question": {
+        "title": "自称常用的 IM 不是 MSN 就是 Gtalk，就是闭口不谈 QQ ，这是一种什么情结呢？",
+        "url": "http://www.zhihu.com/api/v4/questions/19612717",
+        "created": 1303717453,
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 19612717
+      },
+      "updated_time": 1307485394,
+      "content": " 这是别人的选择自由，提问者这么敏感反倒又是什么情节呢？难道觉得不用QQ的人都不正常活不了？<br>我本身就非常排斥QQ，并且也尽量不去使用，不过相对来我更讨厌 msn，不过即便如此我也不会把这种喜好强加于别人，淡定是基本。 ",
+      "comment_count": 0,
+      "answer_type": "normal",
+      "voteup_count": 46,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CjAQBBoGMTk4NjMxINLJuu8EKC4wAEAAUgdfYW5zd2VyWgUyNTAyOHIIMTI2OTg3OTM="
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "装逼情节，用QQ的人认为QQ易用。不用QQ用MSN、Gtalk的人认为QQ是大众产品，有损品位 ",
+      "created_time": 1308135887,
+      "id": 12742050,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic4.zhimg.com/50/137c400ad.jpg?source=54b3c3a5",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "麦克",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "is_advertiser": false,
+        "url": "http://www.zhihu.com/api/v4/people/edf1c9151fd6a499ea6f9af204ddecca",
+        "url_token": "mai-ke-13",
+        "user_type": "people",
+        "headline": "上知乎唯一的乐趣就是吐槽",
+        "avatar_url": "https://pic1.zhimg.com/50/137c400ad_l.jpg?source=54b3c3a5",
+        "is_org": false,
+        "gender": -1,
+        "type": "people",
+        "id": "edf1c9151fd6a499ea6f9af204ddecca"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/12742050",
+      "question": {
+        "title": "自称常用的 IM 不是 MSN 就是 Gtalk，就是闭口不谈 QQ ，这是一种什么情结呢？",
+        "url": "http://www.zhihu.com/api/v4/questions/19612717",
+        "created": 1303717453,
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 19612717
+      },
+      "updated_time": 1308135887,
+      "content": " 装逼情节，用QQ的人认为QQ易用。不用QQ用MSN、Gtalk的人认为QQ是大众产品，有损品位 ",
+      "comment_count": 4,
+      "answer_type": "normal",
+      "voteup_count": 38,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CjAQBBoGMjE1OTQ2IM+j4u8EKCYwBEAAUgdfYW5zd2VyWgUyNTAyOHIIMTI3NDIwNTA="
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "Google Talk并没有实现Message全部特性，主要突出的问题有两点：没有同手机号码绑定；没有做到操作系统级的整合。 Apple的做法是把手机号码和Apple ID统一起来，发送消息的时候面向的对象是联系人，至于采取那种线路发送，用户不需要操心。GTalk仍旧停留在…",
+      "hermes_label": {
+        "icon_url": "https://pic4.zhimg.com/v2-f7280ef42cbe317d6158f4217fd763c5.png?source=54b3c3a5",
+        "icon": "https://pic4.zhimg.com/v2-f7280ef42cbe317d6158f4217fd763c5.png?source=54b3c3a5",
+        "type": "editor_recommendation",
+        "foreground_color": {
+          "alpha": 1,
+          "group": "GYL02A"
+        },
+        "text": "编辑推荐"
+      },
+      "created_time": 1357529376,
+      "id": 15888181,
+      "topic_thumbnails": [],
+      "is_labeled": true,
+      "author": {
+        "avatar_url_template": "https://pic1.zhimg.com/50/b11357c30.jpg?source=54b3c3a5",
+        "badge": [
+          {
+            "topics": [
+              {
+                "is_super_topic_vote": true,
+                "name": "游戏开发",
+                "introduction": "",
+                "excerpt": "",
+                "is_vote": false,
+                "url": "http://www.zhihu.com/api/v4/topics/19553361",
+                "avatar_url": "https://pic2.zhimg.com/50/130887c7689dc9631634a26a5f3df106_720w.jpg?source=54b3c3a5",
+                "is_black": false,
+                "type": "topic",
+                "id": "19553361"
+              },
+              {
+                "category": "n_wiki_zhihu",
+                "is_super_topic_vote": true,
+                "name": "游戏",
+                "introduction": "游戏是一种基于物质需求满足之上的，在一种特定时间、空间范围内遵循某种特定规则的，追求精神需求满足的社会行为方式。游戏有智力游戏和活动性游戏之分，又翻译为Play，Pastime，Playgame，Sport，Spore，Squail，Games，Gamest，Hopscotch，Jeu，Toy。现在的游戏多指各种平台上的电子游戏。",
+                "excerpt": "游戏是一种基于物质需求满足之上的，在一种特定时间、空间范围内遵循某种特定规则的，追求精神需求满足的社会行为方式。游戏有智力游戏和活动性游戏之分，又翻译为Play，Pastime，Playgame，Sport，Spore，Squail，Games，Gamest，Hopscotch，Jeu，Toy。现在的游戏多指各种平台上的电子游戏。",
+                "is_vote": false,
+                "url": "http://www.zhihu.com/api/v4/topics/19550994",
+                "avatar_url": "https://pic1.zhimg.com/50/fb89e0ea3_720w.jpg?source=54b3c3a5",
+                "is_black": false,
+                "type": "topic",
+                "id": "19550994"
+              }
+            ],
+            "type": "best_answerer",
+            "description": "游戏开发话题下的优秀答主"
+          }
+        ],
+        "badge_v2": {
+          "title": "游戏开发话题下的优秀答主",
+          "detail_badges": [
+            {
+              "description": "游戏开发话题下的优秀答主",
+              "title": "优秀答主",
+              "url": "https://www.zhihu.com/verify/info",
+              "sources": [
+                {
+                  "avatar_path": "130887c7689dc9631634a26a5f3df106",
+                  "name": "游戏开发",
+                  "url": "https://www.zhihu.com/topic/19553361",
+                  "priority": 0,
+                  "token": "19553361",
+                  "avatar_url": "https://pic3.zhimg.com/130887c7689dc9631634a26a5f3df106_hd.jpg",
+                  "type": "topic",
+                  "id": "19553361",
+                  "description": ""
+                },
+                {
+                  "avatar_path": "v2-ef5608869436909035792814ff650dab",
+                  "name": "游戏",
+                  "url": "https://www.zhihu.com/topic/19550994",
+                  "priority": 0,
+                  "token": "19550994",
+                  "avatar_url": "https://pic1.zhimg.com/v2-ef5608869436909035792814ff650dab_hd.jpg",
+                  "type": "topic",
+                  "id": "19550994",
+                  "description": ""
+                }
+              ],
+              "night_icon": "https://pic2.zhimg.com/v2-c724649168d8f9d36d7c3d13140a2594_l.png",
+              "detail_type": "best_answerer",
+              "type": "best",
+              "icon": "https://pic2.zhimg.com/v2-bf0eec3c31c8e866c468f60eb296696c_l.png"
+            }
+          ],
+          "night_icon": "https://pic3.zhimg.com/v2-c724649168d8f9d36d7c3d13140a2594_l.png",
+          "merged_badges": [
+            {
+              "description": "游戏开发话题下的优秀答主",
+              "title": "优秀答主",
+              "url": "https://www.zhihu.com/verify/info",
+              "sources": [
+                {
+                  "avatar_path": "130887c7689dc9631634a26a5f3df106",
+                  "name": "游戏开发",
+                  "url": "https://www.zhihu.com/topic/19553361",
+                  "priority": 0,
+                  "token": "19553361",
+                  "avatar_url": "https://pic3.zhimg.com/130887c7689dc9631634a26a5f3df106_hd.jpg",
+                  "type": "topic",
+                  "id": "19553361",
+                  "description": ""
+                },
+                {
+                  "avatar_path": "v2-ef5608869436909035792814ff650dab",
+                  "name": "游戏",
+                  "url": "https://www.zhihu.com/topic/19550994",
+                  "priority": 0,
+                  "token": "19550994",
+                  "avatar_url": "https://pic1.zhimg.com/v2-ef5608869436909035792814ff650dab_hd.jpg",
+                  "type": "topic",
+                  "id": "19550994",
+                  "description": ""
+                }
+              ],
+              "night_icon": "",
+              "detail_type": "best",
+              "type": "best",
+              "icon": ""
+            }
+          ],
+          "icon": "https://pic4.zhimg.com/v2-bf0eec3c31c8e866c468f60eb296696c_l.png"
+        },
+        "name": "Avatar Ye",
+        "edu_member_tag": {
+          "type": "subject",
+          "member_tag": "临床医学"
+        },
+        "is_advertiser": false,
+        "url": "http://www.zhihu.com/api/v4/people/245e4b6c12792a02014847f0d76ccf63",
+        "url_token": "avatarye",
+        "user_type": "people",
+        "headline": "游戏开发",
+        "avatar_url": "https://pic1.zhimg.com/50/b11357c30_l.jpg?source=54b3c3a5",
+        "is_org": false,
+        "gender": 1,
+        "type": "people",
+        "id": "245e4b6c12792a02014847f0d76ccf63"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/15888181",
+      "question": {
+        "title": "为什么 Google Talk 影响力远不如 iMessage ？",
+        "url": "http://www.zhihu.com/api/v4/questions/19709667",
+        "created": 1307844736,
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 19709667
+      },
+      "updated_time": 1357657091,
+      "content": "Google Talk并没有实现Message全部特性，主要突出的问题有两点：没有同手机号码绑定；没有做到操作系统级的整合。<br><br>Apple的做法是把手机号码和Apple ID统一起来，发送消息的时候面向的对象是联系人，至于采取那种线路发送，用户不需要操心。GTalk仍旧停留在传统的IM的层面上。记忆中GTalk好像有过类似的服务，但是没有做起来。同手机号码绑定的好处很多：第一，用户可以选择使用本机的电话号码作为Message绑定对象，在有Internet连接的情况下，会首先通过网络发送，不成功的话再走电信网络，省短信费；第二，把短信和IM统一起来，提升用户体验，你只管发消息，怎么发有系统帮你选择。这也是Apple一贯的风格，把复杂性封装起来，把同用户的交互降到最低。<br><br>第二个，也是最重要的缺陷，缺乏深度整合。这也是我目前的观点：Google缺乏把服务和数据推到用户面前的能力。Apple的做法是，任何iOS设备只要用相同的ID登陆，消息都会被同步推送到所有这些设备上。推送是通过iOS和Mac OSX的通知中心，系统级的，同电话和短信是一个优先级别的服务。GTalk没有iOS版，在Android手机上似乎也没有被Google做为系统服务的一部分进行深入整合，而桌面系统的话，即使在Windows上也要登陆网页或者下载使用桌面客户端。再说连Google自己都已经停止开发GTalk的桌面版了，不难看出GTalk在Google整体战略中的地位。说白了，一个发了消息，对方不登陆是看不到的服务，怎么能够取代短信，获得更多的用户？<br><br>所以，这个问题的根源在于一是GTalk由于战略地位的关系，整合度不够；二是Google自身缺乏的操作系统链，无法把数据直接送达用户，从而影响了可用度。",
+      "comment_count": 18,
+      "answer_type": "normal",
+      "voteup_count": 37,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CjEQBBoHMTQ4NDE3MiCggqmHBSglMBJAAFIHX2Fuc3dlcloFNjM5MjRyCDE1ODg4MTgx"
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "GTalk 采用的协议是广泛使用的 xmpp 协议，这个协议的格式是以 xml （有点恶心）为基础的，实际上所谓的消息发送和接受是以订阅和被订阅实现的，当你加了某人好友以后，你实际上就订阅了他发送给你的信息，也就是当他发消息给你的时候，你可以收到这个消息…",
+      "created_time": 1364526764,
+      "id": 16528615,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic1.zhimg.com/50/v2-89a27ce4c9c1379f1ad81fee32d399da.jpg?source=54b3c3a5",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "Alex.黄太厚",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "is_advertiser": false,
+        "url": "http://www.zhihu.com/api/v4/people/146ba1f5637fc90df5276dda5449b97a",
+        "url_token": "fidot",
+        "user_type": "people",
+        "headline": "没有兴趣",
+        "avatar_url": "https://pic4.zhimg.com/50/v2-89a27ce4c9c1379f1ad81fee32d399da_l.jpg?source=54b3c3a5",
+        "is_org": false,
+        "gender": 1,
+        "type": "people",
+        "id": "146ba1f5637fc90df5276dda5449b97a"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/16528615",
+      "question": {
+        "title": "怎么编写 Gtalk 机器人？",
+        "url": "http://www.zhihu.com/api/v4/questions/20106709",
+        "created": 1331114832,
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 20106709
+      },
+      "updated_time": 1364733722,
+      "content": "GTalk 采用的协议是广泛使用的 xmpp 协议，这个协议的格式是以 xml （有点恶心）为基础的，实际上所谓的消息发送和接受是以订阅和被订阅实现的，当你加了某人好友以后，你实际上就订阅了他发送给你的信息，也就是当他发消息给你的时候，你可以收到这个消息；否则，如果你没有加他为好友，他还是可以发送消息，但是你是收不到的，因为你没有订阅。<br><br>那是不是意味这我们需要自己写传输和协议解析呢，当然不用，如果只是为了实现一个机器人，以python为例，我们可以使用一个第三方包——xmpppy（好开心啊）,具体接口使用方法可以参考这个网站的<br><a href=\"https://link.zhihu.com/?target=http%3A//xmpppy.sourceforge.net/apidocs/xmpp-module.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">xmpppy.sourceforge.net/</span><span class=\"invisible\">apidocs/xmpp-module.html</span><span class=\"ellipsis\"></span></a><br><br>下面给一个很简单的一个实现消息发送的例子：<br><br><div class=\"highlight\"><pre><code class=\"language-python\"><span></span><span class=\"ch\">#!/usr/bin/env python</span>\n<span class=\"c1\"># coding: utf8</span>\n<span class=\"kn\">import</span> <span class=\"nn\">xmpp</span>\n\n<span class=\"sd\">\"\"\"</span>\n<span class=\"sd\">获取好友列表</span>\n<span class=\"sd\">\"\"\"</span>\n<span class=\"k\">def</span> <span class=\"nf\">get_rosters</span><span class=\"p\">(</span><span class=\"n\">connection</span><span class=\"p\">):</span>\n    <span class=\"n\">roster</span> <span class=\"o\">=</span> <span class=\"n\">connection</span><span class=\"o\">.</span><span class=\"n\">getRoster</span><span class=\"p\">()</span>\n    <span class=\"n\">rosters</span> <span class=\"o\">=</span> <span class=\"n\">roster</span><span class=\"o\">.</span><span class=\"n\">getItems</span><span class=\"p\">()</span>\n    <span class=\"k\">return</span> <span class=\"n\">rosters</span>\n\n\n<span class=\"sd\">\"\"\"</span>\n<span class=\"sd\">发送消息</span>\n<span class=\"sd\">\"\"\"</span>\n<span class=\"k\">def</span> <span class=\"nf\">send</span><span class=\"p\">(</span><span class=\"n\">msg</span><span class=\"p\">,</span> <span class=\"n\">contact</span><span class=\"p\">):</span>\n    <span class=\"n\">acount</span> <span class=\"o\">=</span> <span class=\"s1\">'xxxxxx'</span>\n    <span class=\"n\">passwd</span> <span class=\"o\">=</span> <span class=\"s1\">'oooooo'</span>\n    <span class=\"n\">host</span> <span class=\"o\">=</span> <span class=\"s1\">'gmail.com'</span>\n\n    <span class=\"n\">connection</span> <span class=\"o\">=</span> <span class=\"n\">xmpp</span><span class=\"o\">.</span><span class=\"n\">Client</span><span class=\"p\">(</span><span class=\"n\">host</span><span class=\"p\">,</span> <span class=\"n\">debug</span><span class=\"o\">=</span><span class=\"p\">[])</span>\n    <span class=\"n\">connection</span><span class=\"o\">.</span><span class=\"n\">connect</span><span class=\"p\">(</span><span class=\"n\">server</span><span class=\"o\">=</span><span class=\"p\">(</span><span class=\"s1\">'talk.google.com'</span><span class=\"p\">,</span> <span class=\"mi\">5223</span><span class=\"p\">))</span>\n    <span class=\"n\">connection</span><span class=\"o\">.</span><span class=\"n\">auth</span><span class=\"p\">(</span><span class=\"n\">acount</span><span class=\"p\">,</span> <span class=\"n\">passwd</span><span class=\"p\">,</span> <span class=\"n\">resource</span><span class=\"o\">=</span><span class=\"s1\">'my-bot'</span><span class=\"p\">)</span>\n    <span class=\"n\">rosters</span> <span class=\"o\">=</span> <span class=\"n\">get_rosters</span><span class=\"p\">(</span><span class=\"n\">connection</span><span class=\"p\">)</span>\n    <span class=\"k\">for</span> <span class=\"n\">roster</span> <span class=\"ow\">in</span> <span class=\"n\">rosters</span><span class=\"p\">:</span>\n        <span class=\"n\">connection</span><span class=\"o\">.</span><span class=\"n\">send</span><span class=\"p\">(</span><span class=\"n\">xmpp</span><span class=\"o\">.</span><span class=\"n\">Message</span><span class=\"p\">(</span><span class=\"n\">roster</span><span class=\"p\">,</span> <span class=\"n\">msg</span><span class=\"p\">))</span>\n\n\n<span class=\"k\">def</span> <span class=\"nf\">main</span><span class=\"p\">():</span>\n    <span class=\"n\">send</span><span class=\"p\">(</span><span class=\"s1\">'xxoo'</span><span class=\"p\">,</span> <span class=\"s1\">'xo@gmail.com'</span><span class=\"p\">)</span>\n\n\n<span class=\"k\">if</span> <span class=\"vm\">__name__</span> <span class=\"o\">==</span> <span class=\"s2\">\"__main__\"</span><span class=\"p\">:</span>\n    <span class=\"n\">main</span><span class=\"p\">()</span>\n</code></pre></div>",
+      "comment_count": 4,
+      "answer_type": "normal",
+      "voteup_count": 30,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CjIQBBoHMTc0MjcwOSCsjdSKBSgeMARAAFIHX2Fuc3dlcloGMjIyNzM2cggxNjUyODYxNQ=="
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "我教会父母用Skype花了二十分钟（当然其中很多时间花在了想方设法避免他们不小心装上tom版的） FaceTime 只要一分钟。",
+      "created_time": 1400112784,
+      "id": 25620924,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic1.zhimg.com/50/da8e974dc.jpg?source=54b3c3a5",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "Zhu Jingsi",
+        "edu_member_tag": {
+          "type": "subject",
+          "member_tag": "计算机科学"
+        },
+        "is_advertiser": false,
+        "url": "http://www.zhihu.com/api/v4/people/5933c263e0ab7b08a288fdb555dfcf04",
+        "url_token": "zhu-jingsi",
+        "user_type": "people",
+        "headline": "",
+        "avatar_url": "https://pic1.zhimg.com/50/da8e974dc_l.jpg?source=54b3c3a5",
+        "is_org": false,
+        "gender": 1,
+        "type": "people",
+        "id": "5933c263e0ab7b08a288fdb555dfcf04"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/25620924",
+      "question": {
+        "title": "FaceTime 与 Skype 或 Gtalk 、QQ 的视频聊天功能有什么不同？",
+        "url": "http://www.zhihu.com/api/v4/questions/19550271",
+        "created": 1292796769,
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 19550271
+      },
+      "updated_time": 1400112784,
+      "content": "我教会父母用Skype花了二十分钟（当然其中很多时间花在了想方设法避免他们不小心装上tom版的）<br>FaceTime 只要一分钟。",
+      "comment_count": 5,
+      "answer_type": "normal",
+      "voteup_count": 30,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "Ci4QBBoHNTU0NzcxNSCQjdCbBSgeMAVAAFIHX2Fuc3dlcloCMjByCDI1NjIwOTI0"
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "今年下半年开始有了！ 10月触宝号码助手更新为触宝电话，增加免费通话功能；11月<a href=\"https://link.zhihu.com/?target=http%3A//www.36kr.com/p/216897.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">微信电话本</a>更新，推出微信好友之间的免费通话功能；<a href=\"https://link.zhihu.com/?target=http%3A//www.36kr.com/p/217277.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">易信3.0发布</a>，基于运营商语音通话线路集成无需数据流量的免费通话功能；12月来往版本更新，支持免费通话功能；小米开始内部…",
+      "created_time": 1420208892,
+      "id": 36335015,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic4.zhimg.com/50/v2-cda19bd10e0abf27f7a2e86bb7ef18f0.jpg?source=54b3c3a5",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "老编辑",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "is_advertiser": false,
+        "url": "http://www.zhihu.com/api/v4/people/c477767e63254f832747e1e99329470c",
+        "url_token": "olditor",
+        "user_type": "people",
+        "headline": "@不上班",
+        "avatar_url": "https://pic2.zhimg.com/50/v2-cda19bd10e0abf27f7a2e86bb7ef18f0_l.jpg?source=54b3c3a5",
+        "is_org": false,
+        "gender": 1,
+        "type": "people",
+        "id": "c477767e63254f832747e1e99329470c"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/36335015",
+      "question": {
+        "title": "为什么 Skype 和 Gtalk 可以做到打（美）国内电话免费，中国却没有公司做到？",
+        "url": "http://www.zhihu.com/api/v4/questions/27350903",
+        "created": 1420120692,
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 27350903
+      },
+      "updated_time": 1420208892,
+      "content": "今年下半年开始有了！<br><ul><li>10月触宝号码助手更新为触宝电话，增加免费通话功能；</li><li>11月<a href=\"https://link.zhihu.com/?target=http%3A//www.36kr.com/p/216897.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">微信电话本</a>更新，推出微信好友之间的免费通话功能；</li><li><a href=\"https://link.zhihu.com/?target=http%3A//www.36kr.com/p/217277.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">易信3.0发布</a>，基于运营商语音通话线路集成无需数据流量的免费通话功能；</li><li>12月来往版本更新，支持免费通话功能；</li><li>小米开始内部测试“畅聊”，支持免流量通话；</li><li>奇虎360宣布<a href=\"https://link.zhihu.com/?target=http%3A//www.36kr.com/p/218078.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">测试360免费电话</a>，向10万用户赠送9999分钟免费通话。</li></ul><br>触宝的人告诉我今年春节前后互联网巨头们会有更大的动作出来。我刚写了一篇文章，<a href=\"https://link.zhihu.com/?target=http%3A//www.36kr.com/p/218152\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">电话号码：移动互联网最后一个ID</a> 大意就是说电话号码是微信&amp;之外的另外一个超级ID，今年运营商政策还是松绑，小米、360、来往、易信手里都有运营商或者虚拟运营商的牌照，2015年会基于电话号码准备向微信再次发起挑战。 ",
+      "comment_count": 2,
+      "answer_type": "normal",
+      "voteup_count": 18,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CjMQBBoHOTkyMzczOSD81ZqlBSgSMAJAAFIHX2Fuc3dlcloHMzEyMzMxNnIIMzYzMzUwMTU="
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "1 只能视频聊天。不能干别的。 2 更加针对你的电话对象。 3 免设置。 4 效果靠谱。 ",
+      "created_time": 1293108657,
+      "id": 12202423,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic2.zhimg.com/50/24f3a654b.jpg?source=54b3c3a5",
+        "badge": [
+          {
+            "topics": [
+              {
+                "is_super_topic_vote": true,
+                "name": "iPhone",
+                "introduction": "iPhone是美国苹果公司研发的智能手机系列，搭载苹果公司研发的iOS操作系统。第一代iPhone于2007年1月9日由苹果公司前首席执行官史蒂夫·乔布斯发布，并在2007年6月29日正式发售。第二代iPhone3G于2008年06月10日由美国苹果公司的掌门人史蒂夫·乔布斯在苹果全球开发者大会上正式发布。第三代iPhone3GS于2009年6月9日由苹果公司在全球开发者大会WWDC2009之上如约正式发布。第四代iPhone4于2010年6月8日在美国Moscone West会展中心举行的苹果全球开发者大会（WWDC 2010）发布。第五代iPhone4s于2011年10月04日在美国加利福尼亚州举行的Let's talk iPhone的新品发布会上发布。第六代iPhone5于2012年9月13日凌晨，在美国旧金山芳草地艺术中心的新品发布会正式发布。第七代的iPhone 5S及iPhone 5C于2013年9月10日发布，同年9月20日正式发售。第八代的iPhone 6及iPhone 6 Plus于2014年9月10日发布，中国大陆地区销售时间定为10月17日。第九代的iPhone 6s及iPhone 6s Plus于北京时间2015年9月10日正式发布，已于2015年9月12日15时开始接受预约，并于2015年9月25日正式开售，中国是首发国家之一。第十代的iPhone 7及iPhone 7 Plus于北京时间2016年9月8日发布。第十一代的iPhone 8，iPhone 8 Plus，iPhone X于北京时间2017年9月13日发布，4.7英寸的iPhone 8，iPhone 8 Plus 6688元起售，9月22日正式开售，iPhone X于10月27日预约，11月3日开售。",
+                "excerpt": "iPhone是美国苹果公司研发的智能手机系列，搭载苹果公司研发的iOS操作系统。第一代iPhone于2007年1月9日由苹果公司前首席执行官史蒂夫·乔布斯发布，并在2007年6月29日正式发售。第二代iPhone3G于2008年06月10日由美国苹果公司的掌门人史蒂夫·乔布斯在苹果全球开发者大会上正式发布。第三代iPhone3GS于2009年6月9日由苹果公司在全球开发者大会WWDC2009之上如约正式发布。第四代iPhone4于2010年6月8日在美国Moscone West会展中心…",
+                "is_vote": false,
+                "url": "http://www.zhihu.com/api/v4/topics/19550292",
+                "avatar_url": "https://pic2.zhimg.com/50/bd6b19fc1_720w.jpg?source=54b3c3a5",
+                "is_black": false,
+                "type": "topic",
+                "id": "19550292"
+              }
+            ],
+            "type": "best_answerer",
+            "description": "iPhone话题下的优秀答主"
+          }
+        ],
+        "badge_v2": {
+          "title": "iPhone话题下的优秀答主",
+          "detail_badges": [
+            {
+              "description": "iPhone话题下的优秀答主",
+              "title": "优秀答主",
+              "url": "https://www.zhihu.com/verify/info",
+              "sources": [
+                {
+                  "avatar_path": "bd6b19fc1",
+                  "name": "iPhone",
+                  "url": "https://www.zhihu.com/topic/19550292",
+                  "priority": 0,
+                  "token": "19550292",
+                  "avatar_url": "https://pic3.zhimg.com/bd6b19fc1_hd.jpg",
+                  "type": "topic",
+                  "id": "19550292",
+                  "description": ""
+                }
+              ],
+              "night_icon": "https://pic2.zhimg.com/v2-c724649168d8f9d36d7c3d13140a2594_l.png",
+              "detail_type": "best_answerer",
+              "type": "best",
+              "icon": "https://pic1.zhimg.com/v2-bf0eec3c31c8e866c468f60eb296696c_l.png"
+            }
+          ],
+          "night_icon": "https://pic3.zhimg.com/v2-c724649168d8f9d36d7c3d13140a2594_l.png",
+          "merged_badges": [
+            {
+              "description": "iPhone话题下的优秀答主",
+              "title": "优秀答主",
+              "url": "https://www.zhihu.com/verify/info",
+              "sources": [
+                {
+                  "avatar_path": "bd6b19fc1",
+                  "name": "iPhone",
+                  "url": "https://www.zhihu.com/topic/19550292",
+                  "priority": 0,
+                  "token": "19550292",
+                  "avatar_url": "https://pic3.zhimg.com/bd6b19fc1_hd.jpg",
+                  "type": "topic",
+                  "id": "19550292",
+                  "description": ""
+                }
+              ],
+              "night_icon": "",
+              "detail_type": "best",
+              "type": "best",
+              "icon": ""
+            }
+          ],
+          "icon": "https://pic2.zhimg.com/v2-bf0eec3c31c8e866c468f60eb296696c_l.png"
+        },
+        "name": "李楠",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "is_advertiser": false,
+        "url": "http://www.zhihu.com/api/v4/people/29c3654588fd4246bb90cbd345242d65",
+        "url_token": "linan",
+        "user_type": "people",
+        "headline": "WeBelieveInAWirelessFutureTM",
+        "avatar_url": "https://pic2.zhimg.com/50/24f3a654b_l.jpg?source=54b3c3a5",
+        "is_org": false,
+        "gender": 1,
+        "type": "people",
+        "id": "29c3654588fd4246bb90cbd345242d65"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/12202423",
+      "question": {
+        "title": "FaceTime 与 Skype 或 Gtalk 、QQ 的视频聊天功能有什么不同？",
+        "url": "http://www.zhihu.com/api/v4/questions/19550271",
+        "created": 1292796769,
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 19550271
+      },
+      "updated_time": 1293108692,
+      "content": " 1 只能视频聊天。不能干别的。<br><br>2 更加针对你的电话对象。<br><br>3 免设置。<br><br>4 效果靠谱。 ",
+      "comment_count": 5,
+      "answer_type": "normal",
+      "voteup_count": 16,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CioQBBoDMTY1ILGLzegEKBAwBUAAUgdfYW5zd2VyWgIyMHIIMTIyMDI0MjM="
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "GTalk 到现在还是以 PC 端的 IM 的思路来做， 而 iMessage 一开始就选择做 SMS 应用的升级，是典型的移动互联网的思路，联系人即好友。而且她对用户的最大的价值——节省短信费用，GTalk 根本不具备：IM 在 PC 上一直就是免费的。",
+      "created_time": 1357530647,
+      "id": 15888371,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic2.zhimg.com/50/v2-c0c45852789bc3974848dfda106ef50d.jpg?source=54b3c3a5",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "安江泽",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "is_advertiser": false,
+        "url": "http://www.zhihu.com/api/v4/people/9ffc73a3ef7d14df1a9ad1bf9effca1d",
+        "url_token": "gnap",
+        "user_type": "people",
+        "headline": "",
+        "avatar_url": "https://pic2.zhimg.com/50/v2-c0c45852789bc3974848dfda106ef50d_l.jpg?source=54b3c3a5",
+        "is_org": false,
+        "gender": 1,
+        "type": "people",
+        "id": "9ffc73a3ef7d14df1a9ad1bf9effca1d"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/15888371",
+      "question": {
+        "title": "为什么 Google Talk 影响力远不如 iMessage ？",
+        "url": "http://www.zhihu.com/api/v4/questions/19709667",
+        "created": 1307844736,
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 19709667
+      },
+      "updated_time": 1357531008,
+      "content": "GTalk 到现在还是以 PC 端的 IM 的思路来做， 而 iMessage 一开始就选择做 SMS 应用的升级，是典型的移动互联网的思路，联系人即好友。而且她对用户的最大的价值——节省短信费用，GTalk 根本不具备：IM 在 PC 上一直就是免费的。",
+      "comment_count": 1,
+      "answer_type": "normal",
+      "voteup_count": 15,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CjEQBBoHMTQ4NDI1MCCXjKmHBSgPMAFAAFIHX2Fuc3dlcloFNjM5MjRyCDE1ODg4Mzcx"
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "先声明一点，skype并非全部免费的电话啊，skype的语音电话是免费的，前提是通话双方都需要是skype用户，落地电话就还是需要费用的。所以这个提问本身就有问题。因此在中国，虽然skype名气很大，但是用户还是限于留学生和外贸业务人员，在国内的资费差不多是…",
+      "created_time": 1488445629,
+      "id": 149362696,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc.jpg?source=54b3c3a5",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "小卡球",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "is_advertiser": false,
+        "url": "http://www.zhihu.com/api/v4/people/c29cc23c5c366774116d8edf1b74c17d",
+        "url_token": "xiao-qia-qiu-46",
+        "user_type": "people",
+        "headline": "",
+        "avatar_url": "https://pic4.zhimg.com/50/da8e974dc_l.jpg?source=54b3c3a5",
+        "is_org": false,
+        "gender": -1,
+        "type": "people",
+        "id": "c29cc23c5c366774116d8edf1b74c17d"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/149362696",
+      "question": {
+        "title": "为什么 Skype 和 Gtalk 可以做到打（美）国内电话免费，中国却没有公司做到？",
+        "url": "http://www.zhihu.com/api/v4/questions/27350903",
+        "created": 1420120692,
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 27350903
+      },
+      "updated_time": 1488445629,
+      "content": "<p>　　先声明一点，skype并非全部免费的电话啊，skype的语音电话是免费的，前提是通话双方都需要是skype用户，落地电话就还是需要费用的。所以这个提问本身就有问题。因此在中国，虽然skype名气很大，但是用户还是限于留学生和外贸业务人员，在国内的资费差不多是0.14元每分钟，并没有价格优势。</p>\n<p>　　其次就是中国已经有不少免费电话软件了。但是所有的都没有形成气候。</p>\n<p>　　远一点的，2345浏览器免费电话，在智能手机还没有普及的时代，这个浏览器在小范围内火起来了。我记得是，在网页上直接可以拨打电话，没有限制。但是音质确实渣。现在已经升级到互联网时代，2345只是换汤不换药，简单的做了个手机拨打页面。音质还是渣渣。</p>\n<p>　　然后就是各种免费电话群舞时代，比如有信，比如微会，基本模式是签到登陆或者完成任务获取免费时长，主要是回拨功能，音质比2345稍好。现在有信已经归于新浪，收羊毛开始，免费时长很难获取，任务麻烦又难做，大力推广的是会员付费电话和旗下社交产品。微会基本被yy放弃，免费时长换取特别复杂，如果想打高清电话，就需要使用专线电话(还是要充值。)</p>\n<p>　　大公司进入时代，腾讯的来往(已经完全付费)，360的360免费电话(实质为语音电话，已经被抛弃)，阿里的钉钉(个人免费电话取消后已经完全转入企业电话)。最后还剩下就是网易的易信，易信现在处于十分尴尬的位置，明明跟微信推出的时间差不多，但是现在处处都模仿微信，比如公众号，易信群等等，除了多一个免费电话入口。但是易信获取免费时长的办法还是真是一言难尽，需要不断的刷星级换取时长，刷星级呢，又没有明确的方式方法，基本原则就是多用易信其他社交功能。但是我不用易信社交啊，这就又尴尬了。</p>\n<p>　　不过互联网时代还是有好处的，比如在各种融资下产生的触宝电话，确实是全部免费，免费时长也很好获取，直接是落地电话。那么触宝靠什么盈利呢，两个字---广告。触宝唯一的功能是打电话，然后其他所有附属的各种页面都是广告了，甚至连拨号键盘，拨打页面也是广告。这对于广告洁癖人员，无疑是一种折磨。用过几次触宝，音质一般般，偶尔会有接不通或者少许杂音情况。</p>\n<p>　　这个大概就是国内网络电话软件的现状吧，不说政策原因，免费电话盈利这个事已经就很难了，大公司有钱可以花，小公司就只能靠广告了。这个问题其实连skype这样全球用户量最多的产品都没有搞清楚，所以才有微软收购一事，才有去年skype总部裁员一事。毕竟只要打电话就会有线路消耗，成本就会增加，如果一直免费，该如何盈利是个重要问题。而且这个前提是如何绕过政策来盈利。</p>\n<p>　　所以国内的免费电话行业现状就是：免费电话看似免费，要么是假免费，要么是广告似牛皮癣，要么是通话线路不能保证，都上不了主流视野。</p>\n<p>　　说了这么多免费电话，其实用免费电话的心态就是想打便宜电话，尤其是便宜的长途电话和国际电话(鉴于很多本地电话可以开通小号免费拨打)。最终还是发现，免费成不了气候，所谓的免费没好货。这也是为何免费电话已经有了，为何那些小公司的收费网络电话还可以生存的原因。既然免费不了，既然免费不可长期使用，那么转而寻找便宜的网络电话，只要比运营商便宜很多，那就相当于省钱了。比如skype充值打国际电话是很多人的首选，即使是0.14元每分钟国内长途也比运营商便宜。国内的有话通网络电话，4g通网络电话这些也是，差不多3分钱一分钟国内长途，音质都不错，通话也稳定。这类软件一般都有免费试用的时长，如果不放心，但是充值后就音质不好了，看看找不找得到客服，客服是否经常随时打通，就知道靠不靠谱了。</p>\n<p>　　总之，在中国这个环境，想打免费电话省钱基本是无望的，还不如尝试一些便宜的收费电话，长期使用。</p>",
+      "comment_count": 2,
+      "answer_type": "normal",
+      "voteup_count": 12,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CjUQBBoINTUyODExNDAgvcHfxQUoDDACQABSB19hbnN3ZXJaBzMxMjMzMTZyCTE0OTM2MjY5Ng=="
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "Gtalk 的好处: 开放协议，客户端多，在各种平台和操作系统，以及手机上使用都很方便可以同步聊天记录到 Gmail 确保聊天记录不丢失和容易搜索同 Google Contacts 集成 SSL 加密可多人聊天 开放协议，可以自己写 Gtalk 机器人做一些事情Gtalk 的缺点: 传图片/…",
+      "created_time": 1301713509,
+      "id": 12298906,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic1.zhimg.com/50/da8e974dc.jpg?source=54b3c3a5",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "知乎用户",
+        "edu_member_tag": {
+          "type": "subject",
+          "member_tag": "GIS（地理信息系统）"
+        },
+        "is_advertiser": false,
+        "url": "http://www.zhihu.com/api/v4/people/0",
+        "url_token": "",
+        "user_type": "people",
+        "headline": "",
+        "avatar_url": "https://pic3.zhimg.com/50/da8e974dc_l.jpg?source=54b3c3a5",
+        "is_org": false,
+        "gender": 1,
+        "type": "people",
+        "id": "5e7718e220e95578329db1654fe7dd85"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/12298906",
+      "question": {
+        "title": "你为什么使用 Gtalk ？",
+        "url": "http://www.zhihu.com/api/v4/questions/19582914",
+        "created": 1301300315,
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 19582914
+      },
+      "updated_time": 1303286120,
+      "content": " Gtalk 的好处:<br><ul><li>开放协议，客户端多，在各种平台和操作系统，以及手机上使用都很方便</li><li>可以同步聊天记录到 Gmail 确保聊天记录不丢失和容易搜索</li><li>同 Google Contacts 集成<br></li><li>SSL 加密</li><li>可多人聊天<br></li><li>开放协议，可以自己写 Gtalk 机器人做一些事情</li></ul>Gtalk 的缺点:<br><ul><li>传图片/文件功能较弱，速度也不快</li><li>不支持 “群” <br></li></ul>",
+      "comment_count": 7,
+      "answer_type": "normal",
+      "voteup_count": 12,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "Ci8QBBoFMzg1NzAg5aTa7AQoDDAHQABSB19hbnN3ZXJaBTEzMTQwcggxMjI5ODkwNg=="
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "1.网页版gtalk（以及嵌入各种网页服务的gtalk）完全可以实现桌面版gtalk的功能 2.Google创始人（尤其是小愤青Brin同学）有网页偏执，他认为Google应该做网页应用，不应该做本地应用。 所以gtalk桌面版悲剧了 另外，再加一猜测：中文版105版是只有中文版的版…",
+      "created_time": 1311853434,
+      "id": 12971763,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic1.zhimg.com/50/c2366708e.jpg?source=54b3c3a5",
+        "gender": 0,
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "sixue",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "url": "http://www.zhihu.com/api/v4/people/09deccf1651e811a79a00ccc4d7987f8",
+        "url_token": "sixue",
+        "user_type": "people",
+        "is_advertiser": false,
+        "avatar_url": "https://pic1.zhimg.com/50/c2366708e_l.jpg?source=54b3c3a5",
+        "badge": [],
+        "is_org": false,
+        "headline": "类型文学研究，科幻，奇幻，玄幻，武侠。。。",
+        "type": "people",
+        "id": "09deccf1651e811a79a00ccc4d7987f8"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/12971763",
+      "question": {
+        "created": 1297770648,
+        "url": "http://www.zhihu.com/api/v4/questions/19561620",
+        "title": "Google 为什么停止更新 Gtalk？",
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 19561620
+      },
+      "updated_time": 1311854301,
+      "content": " 1.网页版gtalk（以及嵌入各种网页服务的gtalk）完全可以实现桌面版gtalk的功能<br>2.Google创始人（尤其是小愤青Brin同学）有网页偏执，他认为Google应该做网页应用，不应该做本地应用。<br>所以gtalk桌面版悲剧了<br>另外，再加一猜测：中文版105版是只有中文版的版本，而且其中肯定有些和谐的内容，此后gtalk桌面版再也没有更新，不排除Google认为桌面版必然面临所在国的政治风险，从而违背自己不作恶的原则，所以砍掉了桌面版的计划 ",
+      "comment_count": 0,
+      "answer_type": "normal",
+      "voteup_count": 12,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "Ci8QBBoGMzA3NzMzIPqWxfEEKAwwAEAAUgdfYW5zd2VyWgQ0NTg2cggxMjk3MTc2Mw=="
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "我家用的是 SanVeiKe（3VK）新风机，服务和效果都非常不错。目前市面上新风系统很多，能够保证持续效果的新风才是好的新风。",
+      "created_time": 1513850114,
+      "id": 280550547,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc.jpg?source=54b3c3a5",
+        "gender": -1,
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "max",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "url": "http://www.zhihu.com/api/v4/people/37801ff8cfb80d665de63310ff4d9331",
+        "url_token": "max-7-42",
+        "user_type": "people",
+        "is_advertiser": false,
+        "avatar_url": "https://pic1.zhimg.com/50/da8e974dc_l.jpg?source=54b3c3a5",
+        "badge": [],
+        "is_org": false,
+        "headline": "企业科研人员",
+        "type": "people",
+        "id": "37801ff8cfb80d665de63310ff4d9331"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/280550547",
+      "question": {
+        "created": 1513850107,
+        "url": "http://www.zhihu.com/api/v4/questions/264413504",
+        "title": "新风机哪个品牌比较好？",
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 264413504
+      },
+      "updated_time": 1513850114,
+      "content": "我家用的是 SanVeiKe（3VK）新风机，服务和效果都非常不错。目前市面上新风系统很多，能够保证持续效果的新风才是好的新风。",
+      "comment_count": 3,
+      "answer_type": "normal",
+      "voteup_count": 9,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CjYQBBoIODEwNzc5NzYggoru0QUoCTADQABSB19hbnN3ZXJaCDIwMTk2MjM5cgkyODA1NTA1NDc="
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "我用的<a href=\"https://link.zhihu.com/?target=http%3A//imo.im\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">imo.im</span><span class=\"invisible\"></span></a>，支持gtalk和msn以及其他不太常用的东西，可以发语音，但是一切信息和语音文件储存在其服务器上，对iPhone推送及时，暂时免费，无广告;目前已经用它替代BeejiveGT",
+      "created_time": 1331696336,
+      "id": 14038084,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic1.zhimg.com/50/da8e974dc.jpg?source=54b3c3a5",
+        "gender": 1,
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "知乎用户",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "url": "http://www.zhihu.com/api/v4/people/0",
+        "url_token": "",
+        "user_type": "people",
+        "is_advertiser": false,
+        "avatar_url": "https://pic2.zhimg.com/50/da8e974dc_l.jpg?source=54b3c3a5",
+        "badge": [],
+        "is_org": false,
+        "headline": "",
+        "type": "people",
+        "id": "c581d38ecc148c77096ff307bb168e41"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/14038084",
+      "question": {
+        "created": 1323764713,
+        "url": "http://www.zhihu.com/api/v4/questions/19967891",
+        "title": "iOS 中最好的 Gtalk 与 MSN 客户端有哪些？",
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 19967891
+      },
+      "updated_time": 1331696336,
+      "content": "我用的<a href=\"https://link.zhihu.com/?target=http%3A//imo.im\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">imo.im</span><span class=\"invisible\"></span></a>，支持gtalk和msn以及其他不太常用的东西，可以发语音，但是一切信息和语音文件储存在其服务器上，对iPhone推送及时，暂时免费，无广告;目前已经用它替代BeejiveGT",
+      "comment_count": 0,
+      "answer_type": "normal",
+      "voteup_count": 9,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CjEQBBoGNzM1MzIwINClgPsEKAkwAEAAUgdfYW5zd2VyWgYxNjcxMzZyCDE0MDM4MDg0"
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "系统自带的信息程序就可以： 添加gmail账户就OK了。 ",
+      "created_time": 1373738256,
+      "id": 17910419,
+      "topic_thumbnails": [
+        "https://pic1.zhimg.com/80/45481ddeb4c945231715e87a0989732e_200x0.jpg?source=54b3c3a5"
+      ],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic2.zhimg.com/50/v2-e672f2ca4a0bdad50d06c269c19f928a.jpg?source=54b3c3a5",
+        "gender": 1,
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "John Wei",
+        "edu_member_tag": {
+          "type": "subject",
+          "member_tag": "管道疏通"
+        },
+        "url": "http://www.zhihu.com/api/v4/people/b10b1d056f5652127b55fa41c36a7980",
+        "url_token": "weidongping",
+        "user_type": "people",
+        "is_advertiser": false,
+        "avatar_url": "https://pic2.zhimg.com/50/v2-e672f2ca4a0bdad50d06c269c19f928a_l.jpg?source=54b3c3a5",
+        "badge": [],
+        "is_org": false,
+        "headline": "折叠区钉子户",
+        "type": "people",
+        "id": "b10b1d056f5652127b55fa41c36a7980"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/17910419",
+      "question": {
+        "created": 1373734756,
+        "url": "http://www.zhihu.com/api/v4/questions/21332515",
+        "title": "在Mac上怎么用Gtalk？",
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 21332515
+      },
+      "updated_time": 1397188200,
+      "content": "系统自带的信息程序就可以：<figure><noscript><img src=\"https://pic4.zhimg.com/50/a74417650894a46651ea542c2842a7b9_720w.jpg?source=54b3c3a5\" data-rawwidth=\"112\" data-rawheight=\"120\" class=\"content_image\" width=\"112\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='112'%20height='120'&gt;&lt;/svg&gt;\" data-rawwidth=\"112\" data-rawheight=\"120\" class=\"content_image lazy\" width=\"112\" data-actualsrc=\"https://pic4.zhimg.com/50/a74417650894a46651ea542c2842a7b9_720w.jpg?source=54b3c3a5\"></figure><br><br>添加gmail账户就OK了。<br><figure><noscript><img src=\"https://pic1.zhimg.com/50/45481ddeb4c945231715e87a0989732e_720w.jpg?source=54b3c3a5\" data-rawwidth=\"1362\" data-rawheight=\"1190\" class=\"origin_image zh-lightbox-thumb\" width=\"1362\" data-original=\"https://pic1.zhimg.com/45481ddeb4c945231715e87a0989732e_720w.jpg?source=54b3c3a5\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1362'%20height='1190'&gt;&lt;/svg&gt;\" data-rawwidth=\"1362\" data-rawheight=\"1190\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1362\" data-original=\"https://pic1.zhimg.com/45481ddeb4c945231715e87a0989732e_720w.jpg?source=54b3c3a5\" data-actualsrc=\"https://pic1.zhimg.com/50/45481ddeb4c945231715e87a0989732e_720w.jpg?source=54b3c3a5\"></figure>",
+      "comment_count": 2,
+      "answer_type": "normal",
+      "voteup_count": 8,
+      "type": "answer",
+      "thumbnail": "https://pic4.zhimg.com/45481ddeb4c945231715e87a0989732e_bh.jpg?source=54b3c3a5"
+    },
+    "attached_info": "CjIQBBoHMjMwMzcyMiCQqoaPBSgIMAJAAFIHX2Fuc3dlcloGNzEzNjk2cggxNzkxMDQxOQ=="
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "截图： 这个要看每个人品味了。不同的人侧重不同，至于拿QQ来截图（或者说另一个IM软件）实在让人难以理解，难道QQ用户真的无时无刻都有互联网？他们能忍受漫长的登录？他们能忍受不堪入目的截图质量? 我个人最喜欢的是FastStone Capture，快速，简洁，流畅…",
+      "created_time": 1336910084,
+      "id": 14426881,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic4.zhimg.com/50/da8e974dc.jpg?source=54b3c3a5",
+        "gender": 1,
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "知乎用户",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "url": "http://www.zhihu.com/api/v4/people/0",
+        "url_token": "",
+        "user_type": "people",
+        "is_advertiser": false,
+        "avatar_url": "https://pic1.zhimg.com/50/da8e974dc_l.jpg?source=54b3c3a5",
+        "badge": [],
+        "is_org": false,
+        "headline": "",
+        "type": "people",
+        "id": "57713861002f025c2993cfb4abd57d1b"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/14426881",
+      "question": {
+        "created": 1336906531,
+        "url": "http://www.zhihu.com/api/v4/questions/20233613",
+        "title": "只用 Gtalk 不用 QQ 的用户，有什么方式来满足截图、群聊、视频聊天等需求？",
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 20233613
+      },
+      "updated_time": 1336910790,
+      "content": "截图：<br>这个要看每个人品味了。不同的人侧重不同，至于拿QQ来截图（或者说另一个IM软件）实在让人难以理解，难道QQ用户真的无时无刻都有互联网？他们能忍受漫长的登录？他们能忍受不堪入目的截图质量?<br>我个人最喜欢的是FastStone Capture，快速，简洁，流畅，完全满足我的功能需要，占用超低。<br><br>群聊 ：<br>这实在不能称之为问题。。。<br>自己Google下“Gtalk 建群”等关键词吧，方法很多，简单易行。而且没有QQ那么多等级啥的限制，要会员才能玩高级群等等。群聊记录在你不在线时全部会被发到Gmail保存，QQ只有20条吧~<br><br>喜欢扯谈的就去一些现成的Gtalk群吧~<br><br>视频聊天 ：<br>G+主导功能了，那么大力气的宣传LZ就没看到。。。==#<br><br>另外你所说的“等”还有什么呢？<br>一直认为坚持QQ无可替代的人无法理解<br>Gtalk用的是开放协议 XMPP，用不惯Google官方的客户端完全可以用 Pidgin等等+一大堆扩展来实现，而封闭的QQ自己不做某个功能就用不了。<br><br>而且我认为IM就是聊天，拿一个IM软件来传输文件实在是我难以想像的麻烦且极度不靠谱的事情<br><br>另外我一直奇怪只用QQ的人是如何解决QQ信息加密传输的？",
+      "comment_count": 15,
+      "answer_type": "normal",
+      "voteup_count": 8,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CjEQBBoGODkxNzg3IITCvv0EKAgwD0AAUgdfYW5zd2VyWgYyNzM2MzlyCDE0NDI2ODgx"
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "有这个必要吗？ 苹果自带的iChat就支持XMPP协议，可以直接登录Gtalk，而且iCaht功能比Gtalk好用多了。更不要说Adium这个IM集大成者 ",
+      "created_time": 1310897871,
+      "id": 12913742,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic1.zhimg.com/50/v2-07c896fa53317d6895425d23b4296a10.jpg?source=54b3c3a5",
+        "gender": 1,
+        "badge_v2": {
+          "title": "观澜网络（杭州）有限公司 CTO",
+          "detail_badges": [
+            {
+              "description": "观澜网络（杭州）有限公司 CTO",
+              "title": "已认证的个人",
+              "url": "https://www.zhihu.com/verify/info",
+              "sources": [],
+              "night_icon": "https://pic2.zhimg.com/v2-45e870b8f0982bcd7537ea4627afbd00_l.png",
+              "detail_type": "identity_people",
+              "type": "identity",
+              "icon": "https://pic1.zhimg.com/v2-235258cecb8a0f184c4d38483cd6f6b6_l.png"
+            }
+          ],
+          "night_icon": "https://pic2.zhimg.com/v2-45e870b8f0982bcd7537ea4627afbd00_l.png",
+          "merged_badges": [
+            {
+              "description": "观澜网络（杭州）有限公司 CTO",
+              "title": "认证",
+              "url": "https://www.zhihu.com/verify/info",
+              "sources": [],
+              "night_icon": "",
+              "detail_type": "identity",
+              "type": "identity",
+              "icon": ""
+            }
+          ],
+          "icon": "https://pic2.zhimg.com/v2-235258cecb8a0f184c4d38483cd6f6b6_l.png"
+        },
+        "name": "范凯robbin",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "url": "http://www.zhihu.com/api/v4/people/697a4dcc9a634bbe987606a7ae29dc92",
+        "url_token": "robbin",
+        "user_type": "people",
+        "is_advertiser": false,
+        "avatar_url": "https://pic1.zhimg.com/50/v2-07c896fa53317d6895425d23b4296a10_l.jpg?source=54b3c3a5",
+        "badge": [
+          {
+            "type": "identity",
+            "description": "观澜网络（杭州）有限公司 CTO"
+          }
+        ],
+        "is_org": false,
+        "headline": "公众号：CTO肉饼",
+        "type": "people",
+        "id": "697a4dcc9a634bbe987606a7ae29dc92"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/12913742",
+      "question": {
+        "created": 1310866116,
+        "url": "http://www.zhihu.com/api/v4/questions/19771588",
+        "title": "为什么 Google 不为 Mac 系统开发官方的 Gtalk 客户端呢？Mac 自带的 iChat 支持 GTalk 的视频聊天吗？",
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 19771588
+      },
+      "updated_time": 1310897871,
+      "content": " 有这个必要吗？ 苹果自带的iChat就支持XMPP协议，可以直接登录Gtalk，而且iCaht功能比Gtalk好用多了。更不要说Adium这个IM集大成者 ",
+      "comment_count": 1,
+      "answer_type": "normal",
+      "voteup_count": 7,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CjAQBBoGMjg0NTk0IM/tivEEKAcwAUAAUgdfYW5zd2VyWgU4ODcxMHIIMTI5MTM3NDI="
+  },
+  {
+    "type": "topic_feed",
+    "target": {
+      "excerpt": "你可能启用了二次认证,也就是说除了密码认证,还需要同时用手机确认码做二次认证.但是chrome和pinying input没有输确认码的功能,所以你必须为他们建立app专有的密码,具体可以看google help",
+      "created_time": 1328926647,
+      "id": 13837797,
+      "topic_thumbnails": [],
+      "is_labeled": false,
+      "author": {
+        "avatar_url_template": "https://pic1.zhimg.com/50/da8e974dc.jpg?source=54b3c3a5",
+        "gender": -1,
+        "badge_v2": {
+          "title": "",
+          "detail_badges": [],
+          "night_icon": "",
+          "merged_badges": [],
+          "icon": ""
+        },
+        "name": "tacy lee",
+        "edu_member_tag": {
+          "type": "default",
+          "member_tag": ""
+        },
+        "url": "http://www.zhihu.com/api/v4/people/849f1f95f92f68f87a14b6943c8094d8",
+        "url_token": "tacy-lee",
+        "user_type": "people",
+        "is_advertiser": false,
+        "avatar_url": "https://pic1.zhimg.com/50/da8e974dc_l.jpg?source=54b3c3a5",
+        "badge": [],
+        "is_org": false,
+        "headline": "丈夫/父亲/而立/IT从业/键盘控/技术控/碌碌无为/Kindle族",
+        "type": "people",
+        "id": "849f1f95f92f68f87a14b6943c8094d8"
+      },
+      "url": "http://www.zhihu.com/api/v4/answers/13837797",
+      "question": {
+        "created": 1328926077,
+        "url": "http://www.zhihu.com/api/v4/questions/20059452",
+        "title": "Google 输入法和 Google talk 用 Gmail 账户登录显示用户名密码不正确，以前都能登录成功，确定密码没错，是什么原因？",
+        "is_following": false,
+        "question_type": "normal",
+        "type": "question",
+        "id": 20059452
+      },
+      "updated_time": 1328926647,
+      "content": "你可能启用了二次认证,也就是说除了密码认证,还需要同时用手机确认码做二次认证.但是chrome和pinying input没有输确认码的功能,所以你必须为他们建立app专有的密码,具体可以看google help",
+      "comment_count": 2,
+      "answer_type": "normal",
+      "voteup_count": 7,
+      "type": "answer",
+      "thumbnail": ""
+    },
+    "attached_info": "CjEQBBoGNjU1MTg3ILef1/kEKAcwAkAAUgdfYW5zd2VyWgYyMDM4MjJyCDEzODM3Nzk3"
+  }
+]
